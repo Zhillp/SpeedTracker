@@ -17,3 +17,4 @@ The budget can be viewed [here](https://github.com/Zhillp/SpeedTracker/blob/mast
 The project schedule can be viewed [here](https://github.com/Zhillp/SpeedTracker/blob/master/Documentations/Project1.mpp)
 
 ## September 11th - Proposal  
+The proposal can be viewed [here]()
