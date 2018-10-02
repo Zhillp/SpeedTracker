@@ -11,9 +11,9 @@
 ![GPS](https://github.com/Zhillp/SpeedTracker/blob/master/Documentations/Invoice/gps.PNG)
 
 ## September 25th - Budget
-
+The budget can be viewed [here](https://github.com/Zhillp/SpeedTracker/blob/master/Documentations/Purchases.xlsx)
 
 ## September 18th - Project Schedule 
-
+The project schedule can be viewed [here](https://github.com/Zhillp/SpeedTracker/blob/master/Documentations/Project1.mpp)
 
 ## September 11th - Proposal  
