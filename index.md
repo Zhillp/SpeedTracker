@@ -13,8 +13,12 @@ https://learn.adafruit.com/adafruit-lsm9ds0-accelerometer-gyro-magnetometer-9-do
 ### Adafruit Ultimate GPS Featherwing Pinout Layout
 https://learn.adafruit.com/adafruit-ultimate-gps-featherwing/pinouts
 
+### Breadboard picture 
+(https://raw.githubusercontent.com/Zhillp/SpeedTracker/master/Documentations/Breadboard/20181023_125810.jpg)
+
 ### I2C Address 
-To be updated
+The I2C address for my sensor is 
+(https://raw.githubusercontent.com/Zhillp/SpeedTracker/master/Documentations/Breadboard/2018-10-23-190644_1824x984_scrot.png)
 
 ## October 9th - 16th - Bring in Purchases/Raspberry Pi Setup 
 During this time period, I gathered all of the purchases I needed for the project. I got my Raspberry Pi Kit first and then Adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS0 a few days later. I got my last purchase which was the Adafruit Ultimate GPS FeatherWing a week later. Also after I got my Raspberry Pi, I decided to set it up during the fall study days. I installed the rasbian OS from the class site and followed the instructions on the StudentSenseHat github page.
