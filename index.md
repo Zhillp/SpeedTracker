@@ -2,9 +2,10 @@
 
 ## October 23rd - Breadboard Milestone
 ### Soldering 
-
+For the Breadboarding milestone, both the adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS0 and the Adafruit Ultimate GPS FeatherWing I had to solder it with the pins. Soldering both the sensors was pretty easy due to the fact that I had prior knowledge of soldering from the school project I did when I was in high school. 
 
 ### Breadboarding 
+Once I finished soldering my sensors to the pins I plugged them both into the breadboard I have in my Humber parts kit. I looked at the datasheet/Pinout layout for both my sensors, which will be linked below. I also looked the Pinout layouts for the Raspberry Pi 3 and made my following connections for the circuit. Once I finished breadboarding I went on fritzing and made the same connections on the application.
 
 https://learn.adafruit.com/adafruit-lsm9ds0-accelerometer-gyro-magnetometer-9-dof-breakouts/python-circuitpython
 https://learn.adafruit.com/adafruit-ultimate-gps-featherwing/pinouts
