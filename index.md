@@ -7,7 +7,10 @@ For the Breadboarding milestone, both the adafruit 9-DOF Accel/Mag/Gyro+Temp Bre
 ### Breadboarding 
 Once I finished soldering my sensors to the pins I plugged them both into the breadboard I have in my Humber parts kit. I looked at the datasheet/Pinout layout for both my sensors, which will be linked below. I also looked the Pinout layouts for the Raspberry Pi 3 and made my following connections for the circuit. Once I finished breadboarding I went on fritzing and made the same connections on the application.
 
+### Adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS0 Pinout Layout
 https://learn.adafruit.com/adafruit-lsm9ds0-accelerometer-gyro-magnetometer-9-dof-breakouts/python-circuitpython
+
+### Adafruit Ultimate GPS Featherwing Pinout Layout
 https://learn.adafruit.com/adafruit-ultimate-gps-featherwing/pinouts
 
 ### I2C Address 
