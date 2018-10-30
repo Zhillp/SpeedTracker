@@ -1,5 +1,8 @@
 # Speed Tracker
 
+## October 30th - PCB Design 
+to be updated 
+
 ## October 23rd - Breadboard Milestone
 ### Soldering 
 For the Breadboarding milestone, both the adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS0 and the Adafruit Ultimate GPS FeatherWing I had to solder it with the pins. Soldering both the sensors was pretty easy due to the fact that I had prior knowledge of soldering from the school project I did when I was in high school. 
