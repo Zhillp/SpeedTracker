@@ -1,7 +1,14 @@
 # Speed Tracker
 
 ## October 30th - PCB Design 
-to be updated 
+### Current Progress
+My current progress is that I am still on track with my project schedule, as I finished off and emailed the prototype lab the gerber files for my PCB board design. 
+
+### Problems and Opportunities 
+I only had a few problems that occured for this part of the schedule, but were easily solved. The first problem during the process of making the design, I had 2 lines that were crossing and would create a short so I had to put a via on one of the lines so it would not cross and short the board. The second problem that occured was that, when I emailed the gerber files, I got a email back saying I had shorts on the board, so I fixed up all the shorts and emailed the gerber files again.
+
+### Finacial Status 
+Since I have gotten all of my items for the project my finacial status is good and on track, nothing to be worried about.
 
 ## October 23rd - Breadboard Milestone
 ### Soldering 
