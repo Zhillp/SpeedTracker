@@ -1,4 +1,6 @@
 # Speed Tracker
+## November 6th - Hardware
+to be updated.
 
 ## October 30th - PCB Design 
 ### Current Progress
