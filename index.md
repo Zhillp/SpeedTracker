@@ -1,6 +1,17 @@
 # Speed Tracker
 ## November 6th - Hardware
-to be updated.
+### Current Progress
+My current progress for this project is that I am a little behind due ot the fact that I do not have the stackable header pins that were needed for this weeks milestone, but today I did get my PCB board that I design last week and I was able to solder in the vias that I put into the design. I need to clean up my PCB board with all the wire that was hard to take out from the solder with a better wire cutter, so it will be cleaner and easier to use. 
+
+### Problems and opportunities
+Other than not having the stackable header pins, I did not have many problems for this weeks milestone, as I was able to do some soldering today. 
+
+### Finacial Status
+For my finacial status, for the most part I have everything I have for my project, but the only thing I need to get for my project is the stackable male to female header pins that would be needed to connect the my PCB board with my sensor and Raspberry Pi. This would take to get because I need to purchase it and receive the stackable header pins. 
+
+### PCB Soldering 
+![front](https://raw.githubusercontent.com/Zhillp/SpeedTracker/master/Documentations/Breadboard/20181106_131355.jpg)
+![back](https://raw.githubusercontent.com/Zhillp/SpeedTracker/master/Documentations/Breadboard/20181106_131358.jpg)
 
 ## October 30th - PCB Design 
 ### Current Progress
