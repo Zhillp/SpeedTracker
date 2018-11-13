@@ -1,4 +1,11 @@
 # Speed Tracker
+## November 13th - Hardware
+### Current Progress
+
+### Problems and opportunities
+
+## Financial Staus
+
 ## November 6th - Hardware
 ### Current Progress
 My current progress for this project is that I am a little behind due ot the fact that I do not have the stackable header pins that were needed for this weeks milestone, but today I did get my PCB board that I design last week and I was able to solder in the vias that I put into the design. I need to clean up my PCB board with all the wire that was hard to take out from the solder with a better wire cutter, so it will be cleaner and easier to use. 
@@ -6,7 +13,7 @@ My current progress for this project is that I am a little behind due ot the fac
 ### Problems and opportunities
 Other than not having the stackable header pins, I did not have many problems for this weeks milestone, as I was able to do some soldering today. 
 
-### Finacial Status
+### Financial Status
 For my finacial status, for the most part I have everything I have for my project, but the only thing I need to get for my project is the stackable male to female header pins that would be needed to connect the my PCB board with my sensor and Raspberry Pi. This would take to get because I need to purchase it and receive the stackable header pins. 
 
 ### PCB Soldering 
@@ -20,7 +27,7 @@ My current progress is that I am still on track with my project schedule, as I f
 ### Problems and Opportunities 
 I only had a few problems that occured for this part of the schedule, but were easily solved. The first problem during the process of making the design, I had 2 lines that were crossing and would create a short so I had to put a via on one of the lines so it would not cross and short the board. The second problem that occured was that, when I emailed the gerber files, I got a email back saying I had shorts on the board, so I fixed up all the shorts and emailed the gerber files again.
 
-### Finacial Status 
+### Financial Status 
 Since I have gotten all of my items for the project my finacial status is good and on track, nothing to be worried about.
 
 ## October 23rd - Breadboard Milestone
