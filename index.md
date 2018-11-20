@@ -1,11 +1,16 @@
 # Speed Tracker
 ## November 20th - Hardware 
 ### Current Progress
+My current project for this project is that I am somewhat on track, as I did get a case for my raspberry pi, but the only thing is that it is a temporary case that I would need to edit to fit my board better, but for now the case that I found on thingyverse will do for now. 
 
 ### Problems and opportunities
+There is not really any problems I have for this week other than adjusting the case to fit my raspberry pi and PCB board properly. Also I still got to figure out my problem I had from last week with my GPS not working.
 
 ### Financial Status
 Since I have gotten all of my items for the project my finacial status is good and on track, nothing to be worried about.
+
+### Picture of case 
+![case]
 
 ## November 13th - Hardware
 ### Current Progress
@@ -25,6 +30,7 @@ https://learn.adafruit.com/adafruit-lsm9ds0-accelerometer-gyro-magnetometer-9-do
 https://learn.adafruit.com/adafruit-ultimate-gps-featherwing/circuitpython-library
 
 ### Pictures of board 
+![board](https://raw.githubusercontent.com/Zhillp/SpeedTracker/master/Documentations/Breadboard/20181113_110617.jpg)
 
 ## November 6th - Hardware
 ### Current Progress
