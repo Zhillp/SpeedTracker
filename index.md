@@ -10,7 +10,7 @@ There is not really any problems I have for this week other than adjusting the c
 Since I have gotten all of my items for the project my finacial status is good and on track, nothing to be worried about.
 
 ### Picture of case 
-![case]
+![case](https://raw.githubusercontent.com/Zhillp/SpeedTracker/master/Documentations/Breadboard/20181120_114054.jpg)
 
 ## November 13th - Hardware
 ### Current Progress
