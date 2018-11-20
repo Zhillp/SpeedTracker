@@ -1,10 +1,30 @@
 # Speed Tracker
-## November 13th - Hardware
+## November 20th - Hardware 
 ### Current Progress
 
 ### Problems and opportunities
 
-## Financial Staus
+### Financial Status
+Since I have gotten all of my items for the project my finacial status is good and on track, nothing to be worried about.
+
+## November 13th - Hardware
+### Current Progress
+My current progress for this project is that I am on track as I was able to power up my PCB board with my Raspberry Pi and try out some code to get the sensor working. I was able to do the soldering at home as I have a soldering iron at home, I was able to solder the vias and the stackable header pins to the PCB board. I found some code for my Adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS0 sensor on the adafruit website which can be viewed below to test out the connections for my PCB board. I was able to get the Adafruit 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS0 to read some data in m/s^2 along the X,Y and Z axis. 
+
+### Problems and opportunities
+I only had 2 problems during this weeks milestone, the first problem I had which I was able to solve was that my original PCB board design had a couple of shorts on the board, so I had to redesign the part of the board where the shorts were and get it sent to the prototype lab to be made again. Once it got made, I was able to solder the connections that needed to be soldered. The second problem that occured to me for this weeks milestone was trying to get my Adafruit Ultimate GPS FeatherWing to read from the code, this is more of a problem with the code as the code I got from Adafruit, the problem with the code is that the pins RX and TX which the GPS uses to input and output data wasn't an attribute for the board import, which I found weird, but I got to find a way to solve this problem before the project is due at the end of the semester.
+
+### Financial Status
+Since I have gotten all of my items for the project my finacial status is good and on track, nothing to be worried about.
+
+### Links to the adafruit code that was used:
+#### Adafruit 9-DOF Accel/Mag/Gyro+temp Breakout Board - LSM9DS0
+https://learn.adafruit.com/adafruit-lsm9ds0-accelerometer-gyro-magnetometer-9-dof-breakouts/python-circuitpython
+
+#### Adafruit Ultimate GPS FeatherWing
+https://learn.adafruit.com/adafruit-ultimate-gps-featherwing/circuitpython-library
+
+### Pictures of board 
 
 ## November 6th - Hardware
 ### Current Progress
